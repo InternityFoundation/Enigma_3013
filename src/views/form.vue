@@ -92,10 +92,13 @@ Job Type :
 <input type="radio" value="Internship" name="gender"> Internship   
 <input type="radio" value="Other" name="other"> Other
       <br><br>
-      <label for="salary">Expected Salary:</label>  
+      Please give the quiz acc to your skill : 
+      <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSeAFTkHkqMSkW0ezXamDW3MMoswRv4zx5tnbA7ydZbeFfRSTQ/viewform?usp=sf_link"> <button class="btn btn-primary">HTML/CSS </button></a>
+      <br><br> Enter your score in quiz : <input type="number"/>
+      <br><br><label for="salary">Expected Salary:</label>  
  <input type="text" placeholder="Enter Expected Salary" name="salary" required>  
 </div> 
-    <button type="submit" class="registerbtn">Create Profile </button> 
+    <button  class="btn btn-success">Create Profile </button> 
 </form>  
 
 </div>
