@@ -1,4 +1,4 @@
-# enigma-hunt
+# enigma
 
 ## Project setup
 ```
