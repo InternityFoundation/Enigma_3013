@@ -27,6 +27,14 @@ Vue.use(VueRouter)
       return import(/* webpackChunkName: "dashboard" */ '../views/Dashboard.vue')
     }
   },
+  ,
+  {
+    path: '/homepage',
+    name: 'Homepage',
+    component: function () {
+      return import(/* webpackChunkName: "dashboard" */ '../views/homepage.vue')
+    }
+  },
   {
     path: '/login',
     name: 'Login',
