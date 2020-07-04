@@ -2,7 +2,7 @@
 [http://enigma-hunt.web.app/](http://enigma-hunt.web.app/)
 
 ## Screenshots
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot(419).png)
 
 
 
