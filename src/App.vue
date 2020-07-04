@@ -7,7 +7,7 @@
       <router-link to="/login">Login</router-link> |
       <router-link to="/signup">Sign Up</router-link> 
     </div>
-    <router-view style="background-color:#edf6f9"/>
+    <router-view />
   </div>
 </template>
 

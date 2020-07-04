@@ -29,10 +29,10 @@ Vue.use(VueRouter)
   },
   ,
   {
-    path: '/homepage',
-    name: 'Homepage',
+    path: '/create-profile',
+    name: 'Form',
     component: function () {
-      return import(/* webpackChunkName: "dashboard" */ '../views/homepage.vue')
+      return import(/* webpackChunkName: "dashboard" */ '../views/form.vue')
     }
   },
   {

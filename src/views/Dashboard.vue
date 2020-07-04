@@ -3,9 +3,20 @@
     <div class="row">
       <div class="col-md-12">
         <!--<h4 class="display-5">Dashboard</h4>-->
+        
       </div>
     </div>
-    <div class="row mt-2">
+    <div class="container" v-if="loader">
+        <div class="row mt-5">
+          <div class="col-md-12 text-center">
+            <div class="spinner-border" role="status">
+               <span class="sr-only">Loading...</span>
+            </div>
+            <p>Getting All Applicants...</p>
+          </div>
+        </div>
+    </div>   
+    <div class="row mt-2" v-else>
       <div class="col-md-3 col-6" v-for="(item,index) in resData" :key="index">
         <div class="card">
           <div class="card-body">

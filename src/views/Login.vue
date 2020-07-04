@@ -1,5 +1,8 @@
 <template>
   <div>
+  <div class="container">
+    
+  </div>
     <div class="container" v-if="loader">
       <div class="row mt-5">
         <div class="col-md-12 text-center">
