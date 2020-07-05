@@ -7,6 +7,13 @@
 ![Screenshot](ss(registration).png)
 ![Screenshot](ss(dashboard).png)
 
+## Demo
+[Demo] (https://drive.google.com/file/d/1kyViyt8lrga67ARQSWJwd2pV8VoT27o2/view?usp=sharing)
+
+## Technologies Used
+- Vue JS
+- Firebase
+
 
 ## Project setup
 ```
