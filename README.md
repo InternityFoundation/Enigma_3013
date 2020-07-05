@@ -3,7 +3,9 @@
 
 ## Screenshots
 ![Screenshot](ss1.png)
-
+![Screenshot](ss2.png)
+![Screenshot](ss(registration).png)
+![Screenshot](ss(dashboard).png)
 
 
 ## Project setup
